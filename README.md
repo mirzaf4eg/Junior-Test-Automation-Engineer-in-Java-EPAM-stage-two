@@ -127,7 +127,7 @@ Amon Amarth
 [Вернуться к содержанию](#содержимое-репозитория)
 
 ## Java Threads
-<img src="https://user-images.githubusercontent.com/66875374/98227492-6ff02100-1f68-11eb-8d21-f6a1c0a8a52d.jpg" width="15%"></img>
+<img src="https://user-images.githubusercontent.com/66875374/98227805-ca897d00-1f68-11eb-8269-31d7be0f9a2e.jpg" width="15%"></img>
 
 - [Main Task](#main-task)
 - [Optional Task](#optional-task)
