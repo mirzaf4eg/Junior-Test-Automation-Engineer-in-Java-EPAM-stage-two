@@ -23,7 +23,7 @@
 
 # Содержимое репозитория:
 
-- [Java Error & Exceptions](#java-error&exceptions)
+- [Java Error&Exceptions](#java-error&exceptions)
 - [Java I\O Fundamentals](#java-io-fundamentals)
 - [Java Threads](#java-threads)
 - [WebDriver](#webdriver)
