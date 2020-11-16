@@ -23,7 +23,7 @@
 
 # Содержимое репозитория:
 
-- [Java Error&Exceptions](#java-error&exceptions)
+- [Java Error&Exceptions](#java-errorexceptions)
 - [Java I\O Fundamentals](#java-io-fundamentals)
 - [Java Threads](#java-threads)
 - [WebDriver](#webdriver)
@@ -267,7 +267,7 @@ git push origin master --force
 
 ## :memo: License
 
-Licensed under the [MIT License](https://github.com/mirzaf4eg/Junior-Test-Automation-Engineer-in-Java-EPAM/blob/master/LICENSE.txt).
+Licensed under the [MIT License](https://github.com/mirzaf4eg/Junior-Test-Automation-Engineer-in-Java-EPAM-stage-two/blob/master/LICENSE.txt).
 
 ## 💜 Thanks
 
