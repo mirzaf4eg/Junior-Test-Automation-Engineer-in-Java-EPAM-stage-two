@@ -154,7 +154,7 @@ Amon Amarth
 [Вернуться к содержанию](#содержимое-репозитория)
 
 ## WebDriver
-<img src="https://user-images.githubusercontent.com/66875374/99146675-6151ea00-268b-11eb-898b-1c1d1db2422e.png" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/66875374/99146675-6151ea00-268b-11eb-898b-1c1d1db2422e.png" width="25%"></img> 
 
 - [WebDriver create a simple paste at pastebin](#webdriver-create-a-simple-paste-at-pastebin)
 - [WebDriver create a complex paste at pastebin and validate data](#webdriver-create-a-complex-paste-at-pastebin-and-validate-data)
@@ -247,7 +247,7 @@ git push origin master --force
 [Вернуться к содержанию](#содержимое-репозитория)
 
 ## Framework
-<img src="https://user-images.githubusercontent.com/66875374/99147053-9875ca80-268e-11eb-8fa8-1f97957f758b.jpg" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/66875374/99147053-9875ca80-268e-11eb-8fa8-1f97957f758b.jpg" width="25%"></img> 
 
 Задача - построить фреймворк для автоматизации Hardcore задания из курса WebDriver (WebDriver Google Cloud calculator в это документе)
 
