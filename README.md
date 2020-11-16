@@ -23,7 +23,7 @@
 
 # Содержимое репозитория:
 
-- [Java Error & Exceptions](#java-error-&-exceptions)
+- [Java Error & Exceptions](#java-error-exceptions)
 - [Java I\O Fundamentals](#java-io-fundamentals)
 - [Java Threads](#java-threads)
 - [WebDriver](#webdriver)
@@ -50,10 +50,10 @@
 ## Java I\O Fundamentals
 <img src="https://user-images.githubusercontent.com/66875374/98227805-ca897d00-1f68-11eb-8269-31d7be0f9a2e.jpg" width="15%"></img>
 
-- [Main Task](#main-task)
-- [Optional Task](#optional-task)
+- [Java I\O Fundamentals: Main Task](#java-io-fundamentals-main-task)
+- [Java I\O Fundamentals: Optional Task](#java-io-fundamentals-optional-task)
 
-### Main Task
+### Java I\O Fundamentals: Main Task
 
 Реализовать программу которая будет получать в качестве аргумента командной строки путь к директории (например _D:/movies_). Записать в текстовый файл структуру папок и файлов в виде, похожем на выполнение программы **tree /F**.
 
@@ -106,7 +106,7 @@ Amon Amarth
 - Среднее количество файлов в папке
 - Среднюю длинну названия файла
 
-### Optional Task
+### Java I\O Fundamentals: Optional Task
 
 Выполнить указанные действия по чтению информации из файла, ее обработке и записи в файл. При разработке для вывода результатов создавать новую директорию и файл средствами класса **File**.
 
@@ -128,10 +128,10 @@ Amon Amarth
 
 ## Java Threads
 <img src="https://user-images.githubusercontent.com/66875374/98227805-ca897d00-1f68-11eb-8269-31d7be0f9a2e.jpg" width="15%"></img>
-- [Main Task](#main-task)
-- [Optional Task](#optional-task)
+- [Java Threads: Main Task](#java-threads-main-task)
+- [Java Threads: Optional Task](#java-threads-optional-task)
 
-### Main Task
+### Java Threads: Main Task
 
 Разработать консольное многопоточное приложение. Использовать возможности, предоставляемые пакетом **java.util.concurrent**. Все сущности, желающие получить доступ к ресурсу, должны быть потоками.
 
@@ -141,7 +141,7 @@ Amon Amarth
 - Аукцион. На торги выставляется несколько лотов. Участники аукциона делают заявки. Заявку можно корректировать в сторону увеличения несколько раз за торги одного лота. Аукцион определяет победителя и переходит к следующему лоту. Участник, не заплативший за лот в заданный промежуток времени, отстраняется на несколько лотов от торгов.
 - Аэропорт. Посадка/высадка пассажиров может осуществляться через конечное число терминалов и наземным способом через конечное число трапов. Самолеты бывают разной вместимости и дальности полета. Организовать функционирование аэропорта, если пунктов назначения 4–6, и зон дальности 2–3.
 
-### Optional Task
+### Java Threads: Optional Task
 
 В аэропорту есть 5 взлетно-посадочных полос. Самолету требуется 3 минуты чтобы выйти на полосу, набрать скорость и взлететь. После этого полоса свободна для вылета следующего самолета. Реализовать симуляцию вылета 10 самолетов используя все доступные полосы. 1 минуту реально времени заменить на 1 секунду в симуляции.
 
@@ -159,7 +159,7 @@ Amon Amarth
 - [WebDriver create a simple paste at pastebin](#webdriver-create-a-simple-paste-at-pastebin)
 - [WebDriver create a complex paste at pastebin and validate data](#webdriver-create-a-complex-paste-at-pastebin-and-validate-data)
 - [WebDriver Google Cloud calculator](#webdriver-google-cloud-calculator)
-- [WebDriver Google Cloud calculator with 10minute mail validation](#webdriver-google-cloud-calculator-with-minute-mail-validation)
+- [WebDriver Google Cloud calculator with 10minute mail validation](#webdriver-google-cloud-calculator-with-10minute-mail-validation)
 
 ### WebDriver create a simple paste at pastebin
 
