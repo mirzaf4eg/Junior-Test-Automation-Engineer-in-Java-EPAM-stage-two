@@ -23,7 +23,7 @@
 
 # Содержимое репозитория:
 
-- [Java Error & Exceptions](#java-error-exceptions)
+- [Java Error & Exceptions](#java-error-&-exceptions)
 - [Java I\O Fundamentals](#java-io-fundamentals)
 - [Java Threads](#java-threads)
 - [WebDriver](#webdriver)
@@ -128,7 +128,6 @@ Amon Amarth
 
 ## Java Threads
 <img src="https://user-images.githubusercontent.com/66875374/98227805-ca897d00-1f68-11eb-8269-31d7be0f9a2e.jpg" width="15%"></img>
-
 - [Main Task](#main-task)
 - [Optional Task](#optional-task)
 
