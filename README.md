@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-   <img src="https://user-images.githubusercontent.com/66875374/98164684-b7899500-1ef5-11eb-82ef-6340a335ee3d.png" width="45%"></img> 
+   <img src="https://user-images.githubusercontent.com/66875374/99257257-cc382800-2827-11eb-9769-8c2f8b7aa29f.png" width="45%"></img>  
 </h3>
 <h3 align="center">
   В моем коде прошу никого не винить. Я честно и добросовестно слизал все с просторов интернета. Я очень старался!
